@@ -1,0 +1,21 @@
+Circuit: * E:\2021-2022 Fall\EE463\EE463-Static-Power-Conversion-1--Term-Project\Topology Simulations\PWM_555_timer_simulation.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Dec 28 20:08:13 2021
+Total elapsed time: 0.416 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11922
+traniter = 11910
+tranpoints = 3355
+accept = 2802
+rejected = 553
+matrix size = 18
+fillins = 6
+solver = Normal
+Matrix Compiler1:      51 opcodes  0.7/[0.3]/0.4
+Matrix Compiler2: 1.18 KB object code size  0.3/0.5/[0.3]
+
